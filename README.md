@@ -1,4 +1,11 @@
 # BrookhavenTP
-Brookhaven Teleport Friend Script by yogisomplak
-https://raw.githubusercontent.com/USERNAME/BrookhavenTP/main/BrookhavenTP.lua
-loadstring(game:HttpGet("LINK_RAW_KAMU"))()
+
+Brookhaven Teleport Script (Roblox)
+
+Author: yogi somplak 🌈
+
+## Raw Script
+https://raw.githubusercontent.com/myogisomplak/BrookhavenTP/main/BrookhavenTP.lua
+
+## How to Use
+loadstring(game:HttpGet("https://raw.githubusercontent.com/myogisomplak/BrookhavenTP/main/BrookhavenTP.lua"))()
